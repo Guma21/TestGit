@@ -1,1 +1,12 @@
 this is my first time use git
+
+Mengatur Git:
+git config --global user.name "Nama Anda"
+git config --global user.email "youremail@domain.com"
+
+perintah lainnya
+git clone (url)
+git add (nama file)
+git commit-m "(pesan berkomitmen)
+git push -u master asal
+git remote add origin master (url)
